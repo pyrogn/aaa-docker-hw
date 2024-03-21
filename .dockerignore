@@ -1,5 +1,13 @@
 .env
 venv
+.venv
+.git
 env
 __pycache__
-
+src/
+Dockerfile
+.dockerignore
+*.pyc
+.python-version
+.gitignore
+README.md
