@@ -1,3 +1,11 @@
+# Comments
+
+## Spam
+
+1. Run `make init`
+2. Run `make spam`. Stop with ^C (SIGINT).
+
+
 # Homework
 Docker lecture repository at [Avito's Analytics Academy](https://avito-analytics-academy.ru/) Data Science course.
 
