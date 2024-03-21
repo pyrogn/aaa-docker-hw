@@ -1,5 +1,7 @@
+file = ./stress-test.sh
+
 init:
-	chmod +x ./stress-test.sh
+	chmod +x $(file)
 
 spam:
-	./stress-test.sh > /dev/null 2>&1
+	$(file) > /dev/null 2>&1
